@@ -28,6 +28,8 @@ The applications is divided into three main areas:
 
 To add your solution, simply add code to the file `solutions/2022/2022-12-{day}.js` file.
 
+To verify your solution, go to the advent of code website and enter your answer for that day.
+
 ##System Requirements
 To run this use [NodeJs 14+](https://nodejs.org/en/download/).  This may work all the way down to NodeJs 9, but 14+ is recommended.  Additionally, some sort of good IDE like Visual Studio Code or WebStorm.
 
