@@ -1,0 +1,23 @@
+{
+  "name": "aoc",
+  "version": "2022.12.01",
+  "description": "Advent of Code NodeJs Repository",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "Joseph Beveridge",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
