@@ -1,3 +1,7 @@
 import chalk from 'chalk';
 
-console.log(chalk.black.bgGreen('TODO:') + ' Add Day 6 Code');
+main();
+function main() {
+  console.log(chalk.black.bgGreen('Part 1:') + ' ' + '???');
+  console.log(chalk.black.bgGreen('Part 2:') + ' ' + '???');
+}
