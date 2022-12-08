@@ -9,7 +9,6 @@ function main() {
   const data = getFileContents()[0];
   const partOne = tokenizer(data, packetSize);
   const partTwo = tokenizer(data, messageSize);
-  console.log(partTwo);
   console.log(chalk.black.bgGreen('Part 1 - Packets:') + ' ' + partOne.charactersProcessed);
   console.log(chalk.black.bgGreen('Part 2 - Messages:') + ' ' + partTwo.charactersProcessed);
 }
